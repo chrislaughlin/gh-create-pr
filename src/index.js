@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 //System Imports
 const exec = require('child_process').exec;
 
