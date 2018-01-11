@@ -14,5 +14,8 @@
         "url": "git@github-personal.com:chrislaughlin/gh-create-pr.git"
     },
     "author": "Chris Laughlin",
-    "license": "ISC"
+    "license": "ISC",
+    "bin": {
+        "gh-create-pr": "./lib/index.js"
+    }
 }
