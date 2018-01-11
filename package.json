@@ -13,6 +13,7 @@
         "type": "git",
         "url": "git@github-personal.com:chrislaughlin/gh-create-pr.git"
     },
+    "homepage": "https://github.com/chrislaughlin/gh-create-pr",
     "author": "Chris Laughlin",
     "license": "ISC",
     "bin": {
