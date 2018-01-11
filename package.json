@@ -1,6 +1,6 @@
 {
     "name": "gh-create-pr",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple node script that pushes a remote branch and provides a link to create a PR",
     "main": "lib/index.js",
     "scripts": {
